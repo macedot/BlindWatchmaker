@@ -1,5 +1,5 @@
 # BlindWatchmaker
-An Python implementation of cdk007 work 'Evolution IS a Blind Watchmaker', originally developed in Mathlab and available at https://www.youtube.com/watch?v=mcAq9bmCeR0 
+An Python implementation of **Evolution IS a Blind Watchmaker**, originally developed in Mathlab by cdk007, available at https://www.youtube.com/watch?v=mcAq9bmCeR0
 
 ---
 
@@ -26,6 +26,7 @@ http://www.mediafire.com/?9e1zz000mq7
 
 To download the program go to:
 http://www.mediafire.com/?1umdtnwayyp
+
 Alternate link to download Clock Evolution Program:
 http://www.mediafire.com/?yygr5xhmzdm
 
